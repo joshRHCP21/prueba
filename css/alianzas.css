@@ -1,0 +1,73 @@
+.cuerpoAlianzas{
+    width: 100%;
+    min-height: 1200px;
+}
+.tituloAlianzas{
+    text-align: center;
+    margin: 50px 0;
+}
+
+.descripcionAlianzas{
+    width: 100%;
+    min-height:300px ;
+    display: flex;    
+    justify-content: center;
+}
+
+.descripcionTexto{
+    width: 30%;
+    min-height: 300px;
+    text-align: justify;
+    box-sizing: border-box;
+    padding-right: 30px;
+    color: #a7aaaa;
+    display: flex;
+    align-items: center;
+}
+
+.descripcionImagen{
+    width: 50%;
+    height: 300px;
+}
+
+.alianzas{
+    width: 100%;
+    height: auto;    
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.empresas{
+    width: 80%;
+    min-height: 120px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+.empresa{
+    width: 20%;
+    max-height: 150px;
+    margin-top: 50px;
+    border-radius: 50%;   
+    color: #3f658c;
+    border: 2px solid #3f658c;
+    text-align: center
+}
+.logoEmpresa{
+    width: 100%;
+    min-height: 170px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nomEmpresa{
+    color:#3f658c;
+}
+.subtiAlianzas{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
